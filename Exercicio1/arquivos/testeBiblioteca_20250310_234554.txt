@@ -1,0 +1,2 @@
+Livro:Livro{titulo='Livro Salvando', autor='Autor Salvando', ISBN='ISBN-SALVANDO'}
+Membro:Membro{nome='Membro Salvando', id=30, email='salvando@example.com'}

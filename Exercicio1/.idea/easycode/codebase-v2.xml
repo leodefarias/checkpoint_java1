@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/Biblioteca.java;C:/Users/lf250/Desktop/faculdade/checkpoint_java1/Exercicio1/src/main/java/Emprestimo.java;C:/Users/lf250/Desktop/faculdade/checkpoint_java1/Exercicio1/src/main/java/Livro.java;C:/Users/lf250/Desktop/faculdade/checkpoint_java1/Exercicio1/src/main/java/Membro.java;C:/Users/lf250/Desktop/faculdade/checkpoint_java1/Exercicio1/src/main/java/SistemaBiblioteca.java;C:/Users/lf250/Desktop/faculdade/checkpoint_java1/Exercicio1/src/test/java/BibliotecaTest.java;C:/Users/lf250/Desktop/faculdade/checkpoint_java1/Exercicio1/src/test/java/EmprestimoTest.java;C:/Users/lf250/Desktop/faculdade/checkpoint_java1/Exercicio1/src/test/java/LivroTest.java;C:/Users/lf250/Desktop/faculdade/checkpoint_java1/Exercicio1/src/test/java/MembroTest.java" />
+  </component>
+</project>
