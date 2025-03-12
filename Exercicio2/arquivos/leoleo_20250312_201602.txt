@@ -1,0 +1,1 @@
+Prato:Prato{nome='leo', preco='2.0', descricao='leo com camarão'}
